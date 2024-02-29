@@ -1,4 +1,4 @@
-### Dashboard for Bike Sharing Analysis
+# Dashboard for Bike Sharing Analysis
 
 ### Setup Environment
 ```
