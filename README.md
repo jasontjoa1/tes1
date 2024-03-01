@@ -2,7 +2,7 @@
 
 ### Setup Environment
 ```
-conda create --name main-ds python=3.9
+conda create --name main-ds
 conda activate main-ds
 pip install pandas matplotlib seaborn jupyter streamlit
 ```
